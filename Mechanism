@@ -1,0 +1,4 @@
+manufacture_100: m(true, {PPE+=[10,100], pollution+= PPE * [0.2, 0.3]})
+manufacture_200: m(true, {PPE+=[100,200], pollution+= PPE * [0.3, 0.4]})
+manufacture_300: m(true, {PPE+=[120,300], pollution+= PPE * [0.4, 0.5]})
+manufacture_400: m(true, {PPE+=[150,400], pollution+= PPE * [0.5, 0.7]}))

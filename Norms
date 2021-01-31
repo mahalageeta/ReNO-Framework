@@ -1,0 +1,2 @@
+P=P1(Company, Regulator,true, pollution>=200)
+C=C1(Company, Hospital,true, PPE>=100)
