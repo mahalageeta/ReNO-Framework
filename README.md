@@ -1,6 +1,8 @@
 # ReNO-Framework
 Probabilistic Verification of multiagent system (MAS) in sociotechnical terms using PRISM model checker
 
+ 
+
 ***** Description about files ********
 
 Input : Set of mechanisms
@@ -18,6 +20,7 @@ Folder StateTranProb : Contains mechanism execution probabilities for each mecha
 
 Our algorithm has been implemented on top of PRISM model checker (https://www.prismmodelchecker.org/).
 Therefore, you will need to separately download a copy of PRISM to connect to run our implentation.
+Instructions are given on this link https://github.com/prismmodelchecker/prism-api for building/running the code.
 Then create a java package inside prism/src and upload our all java files.
 
 Finally, Run STS2MDPModelGenerator.java to build the model.
